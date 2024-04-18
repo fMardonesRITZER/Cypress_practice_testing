@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "cypress": "^10.3.0"
-  },
   "name": "cypress_testing_practice",
   "version": "1.0.0",
   "main": "index.js",
@@ -173,5 +170,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
 }
