@@ -9,6 +9,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    baseUrl: "https://pushing-it.vercel.app",
     //cambia el tiempo de espera por default
     defaultCommandTimeout: 10000
   },
